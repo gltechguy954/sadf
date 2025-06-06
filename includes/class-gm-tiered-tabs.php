@@ -1,4 +1,3 @@
-
 <?php
 // File: includes/class-gm-tiered-tabs.php
 
